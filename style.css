@@ -40,27 +40,27 @@ img {
 }
 
 .kick-pad {
- background: #e7e7e7;
+ background: #00ff9d;
 }
 
 .snare-pad {
- background: #e7e7e7;
+ background: #00ff9d;
 }
 
 .hihat-pad {
- background: #e7e7e7;
+ background: #00ff9d;
 }
 
 .kick-pad.active {
-  background: #e8e8e8;
+  background: #16ac72;
 }
 
 .snare-pad.active {
-  background: #e8e8e8;
+  background: #16ac72;
 }
 
-.hihat-pad {
-  background: #e8e8e8;
+.hihat-pad.active {
+  background: #16ac72;
 }
 
 .kick-track,.snare-track,.hihat-track {
@@ -86,7 +86,7 @@ img {
 .controls button {
   padding: 1rem;
   border: none;
-  background: #c8c8c8;
+  background: #333332;
   color: white;
   font-size: 1rem;
   cursor: pointer;
@@ -100,7 +100,7 @@ img {
 .play {
   padding: 1rem 2rem;
   font-size: 1.5rem;
-  background: #c8c8c8;
+  background: #333332;
   color: white;
   border: none;
   cursor: pointer;
